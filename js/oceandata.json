@@ -1,0 +1,79 @@
+{
+    "usa": {
+        "oceans": "Pacific Ocean, Atlantic Ocean, Gulf of Mexico",
+        "info": "The USA has significant coastlines along these oceans. The Pacific Ocean is the largest and deepest ocean, while the Atlantic is known for its rich biodiversity.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll concentration peaks of 3.5 mg/m³ observed off California's coast.",
+            "cloudObservation": "Cloud cover over the Gulf of Mexico averages 45% during hurricane season.",
+            "aerosolObservation": "Aerosol levels in the eastern US reached 30 µg/m³ due to urban pollution.",
+            "harmfulAlgaeBlooms": "Significant blooms reported in Florida's coast with a density of 15,000 cells/mL.",
+            "biochemicalCycles": "Nitrogen levels increased by 25% in the Chesapeake Bay due to runoff."
+        }
+    },
+    "india": {
+        "oceans": "Indian Ocean, Arabian Sea, Bay of Bengal",
+        "info": "India's coastline is bordered by these oceans, which are rich in marine life and biodiversity.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll levels recorded at 2.8 mg/m³ in the Bay of Bengal.",
+            "cloudObservation": "Cloud cover over the Arabian Sea peaks at 60% during the monsoon months.",
+            "aerosolObservation": "Aerosol levels in Delhi during winter reached 80 µg/m³ due to stubble burning.",
+            "harmfulAlgaeBlooms": "HABs reported in the Gulf of Mannar with concentrations of 12,000 cells/mL.",
+            "biochemicalCycles": "Phosphorus levels in coastal waters increased by 15% linked to agricultural runoff."
+        }
+    },
+    "brazil": {
+        "oceans": "Atlantic Ocean",
+        "info": "Brazil has a long Atlantic coastline with diverse ecosystems, including the famous Amazon River Delta.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll levels of 4.0 mg/m³ detected near the Amazon River mouth.",
+            "cloudObservation": "Cloud cover changes observed during seasonal patterns.",
+            "aerosolObservation": "Aerosol levels analyzed to understand pollution sources.",
+            "harmfulAlgaeBlooms": "Regular monitoring of harmful algal blooms in coastal areas.",
+            "biochemicalCycles": "Studies on carbon cycling in marine ecosystems."
+        }
+    },
+    "australia": {
+        "oceans": "Indian Ocean, Pacific Ocean, Southern Ocean",
+        "info": "Australia is surrounded by oceans rich in marine biodiversity and has unique ecosystems like the Great Barrier Reef.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll concentration recorded at 1.8 mg/m³ near the Great Barrier Reef.",
+            "cloudObservation": "Average cloud cover of 40% during the wet season in northern Australia.",
+            "aerosolObservation": "Aerosol levels in Sydney during fire season peaked at 90 µg/m³.",
+            "harmfulAlgaeBlooms": "Reported algal blooms off the coast of Queensland with densities of 8,000 cells/mL.",
+            "biochemicalCycles": "Nutrient cycling in the Great Barrier Reef shows a 20% increase in nitrogen levels."
+        }
+    },
+    "canada": {
+        "oceans": "Atlantic Ocean, Pacific Ocean, Arctic Ocean",
+        "info": "Canada has coastlines on three oceans, each supporting unique marine habitats and species.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll concentrations of 0.5 mg/m³ observed in Arctic waters.",
+            "cloudObservation": "Cloud cover in the Arctic region averages 70% during the winter months.",
+            "aerosolObservation": "Aerosol levels in Toronto reached 50 µg/m³ due to industrial emissions.",
+            "harmfulAlgaeBlooms": "Rare occurrences of blooms recorded in Nova Scotia with 5,000 cells/mL.",
+            "biochemicalCycles": "Carbon cycling in Arctic regions indicates a 15% decrease in organic carbon levels."
+        }
+    },
+    "japan": {
+        "oceans": "Pacific Ocean, Sea of Japan, East China Sea",
+        "info": "Japan's oceans are crucial for fishing and have diverse marine life, with the Pacific Ocean being particularly rich.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll concentrations of 3.2 mg/m³ observed near the Kuroshio Current.",
+            "cloudObservation": "Cloud cover during typhoon season averages 65%.",
+            "aerosolObservation": "Aerosol levels in Tokyo reached 70 µg/m³ due to urban pollution.",
+            "harmfulAlgaeBlooms": "Algal blooms monitored in Seto Inland Sea with densities of 6,000 cells/mL.",
+            "biochemicalCycles": "Nutrient cycling studies show a 10% increase in nitrogen in coastal ecosystems."
+        }
+    },
+    "southafrica": {
+        "oceans": "Atlantic Ocean, Indian Ocean",
+        "info": "South Africa is bordered by both the Atlantic and Indian Oceans, featuring a rich diversity of marine life.",
+        "satelliteData": {
+            "oceanColor": "Chlorophyll levels of 2.0 mg/m³ detected along the Wild Coast.",
+            "cloudObservation": "Seasonal cloud cover averages 55% during summer months.",
+            "aerosolObservation": "Aerosol concentration in Cape Town reached 40 µg/m³ due to urban emissions.",
+            "harmfulAlgaeBlooms": "Algal blooms reported near Durban with densities of 9,000 cells/mL.",
+            "biochemicalCycles": "Phosphorus cycling indicates a 5% increase due to agricultural runoff."
+        }
+    }
+}
